@@ -1,0 +1,106 @@
+1659945918400	geckodriver	INFO	Listening on 127.0.0.1:44353
+1659945918912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34625" "-no-remote" "-profile" "/tmp/rust_mozprofileTboUkf"
+*** You are running in headless mode.
+1659945919143	Marionette	INFO	Marionette enabled
+1659945919145	Marionette	INFO	Listening on port 46813
+WebDriver BiDi listening on ws://localhost:34625
+1659945919305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTboUkf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34625/devtools/browser/7c57e587-620d-492b-8962-d6f7b3d83e0b
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1659946328034	geckodriver	INFO	Listening on 127.0.0.1:48999
+1659946328546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "57573" "-no-remote" "-profile" "/tmp/rust_mozprofileLnNubz"
+*** You are running in headless mode.
+1659946328785	Marionette	INFO	Marionette enabled
+1659946328787	Marionette	INFO	Listening on port 35619
+WebDriver BiDi listening on ws://localhost:57573
+1659946328938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLnNubz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57573/devtools/browser/569416dc-f1e4-443a-be76-2a93acedfbb7
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659946366980	geckodriver	INFO	Listening on 127.0.0.1:54029
+1659946367492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "47013" "-no-remote" "-profile" "/tmp/rust_mozprofile14LKy4"
+*** You are running in headless mode.
+1659946367730	Marionette	INFO	Marionette enabled
+1659946367732	Marionette	INFO	Listening on port 36859
+WebDriver BiDi listening on ws://localhost:47013
+1659946367888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile14LKy4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47013/devtools/browser/739003c1-fd47-499e-920a-b4be44fdc9e3
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1659946382589	geckodriver	INFO	Listening on 127.0.0.1:47141
+1659946383101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "49433" "-no-remote" "-profile" "/tmp/rust_mozprofileooNm1r"
+*** You are running in headless mode.
+1659946383368	Marionette	INFO	Marionette enabled
+1659946383370	Marionette	INFO	Listening on port 38957
+WebDriver BiDi listening on ws://localhost:49433
+1659946383434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileooNm1r/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49433/devtools/browser/170a4946-a056-47d3-a6ac-c393d834b8e5
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1659946395402	geckodriver	INFO	Listening on 127.0.0.1:38447
+1659946395404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "47771" "-no-remote" "-profile" "/tmp/rust_mozprofilehyPxcR"
+*** You are running in headless mode.
+1659946395637	Marionette	INFO	Marionette enabled
+1659946395640	Marionette	INFO	Listening on port 34583
+WebDriver BiDi listening on ws://localhost:47771
+1659946395808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehyPxcR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47771/devtools/browser/55405c41-e606-41cc-b8f1-f9eb3534ae7f
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1659951467440	geckodriver	INFO	Listening on 127.0.0.1:48847
+1659951467951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "40789" "-no-remote" "-profile" "/tmp/rust_mozprofileyGoPKq"
+*** You are running in headless mode.
+1659951468226	Marionette	INFO	Marionette enabled
+1659951468228	Marionette	INFO	Listening on port 33615
+WebDriver BiDi listening on ws://localhost:40789
+1659951468290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyGoPKq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40789/devtools/browser/836eda15-5c08-46a9-8a22-efccc0ef285a
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
